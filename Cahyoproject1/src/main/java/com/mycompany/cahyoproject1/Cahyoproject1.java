@@ -14,6 +14,6 @@ public class Cahyoproject1 {
         System.out.println("Nama : Cahyo Adi Nugroho");
         System.out.println("NPM : 2505060034");
         System.out.println("Alamat : Ngaringan, Grobogan, Jawa Tengah");
-        System.out.println("No Hp : 0882 0068 82s757");
+        System.out.println("No Hp : 0882");
     }
 }
